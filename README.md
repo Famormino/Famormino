@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> Hi, I'm Federico Amormino! </h2>
+<img align='right' src="https://media.giphy.com/media/AEkhbYZRKUaVoEDKph/giphy.gif" width="230">
+<p><em>Systems Analyst and Systems Analyst Programmer.</br>Progress developer and SAP HCM consultant at EPESF. 
+</em></p>
 
-<!--
-**Famormino/Famormino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me 🌎:
+ - [Twitter](https://twitter.com/_famormino)
+ - [Instagram](https://www.instagram.com/federico_amormino/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me...   
+
+```javascript
+const Famormino = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Vue, Node, Styled-Components, Jest, Enzyme, SAP HCM],
+  design: [Photoshop, Lightroom, Illustrator, Premiere],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript and some certifications on freecodecamp"
+}
+```
+
+---
